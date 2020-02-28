@@ -1,0 +1,5 @@
+WMTS
+https://idena.navarra.es/ogc/wmts
+
+WFS
+https://idena.navarra.es/ogc/wfs
